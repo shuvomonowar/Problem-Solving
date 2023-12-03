@@ -1,0 +1,15 @@
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\bin\Debug\net8.0\LearningToSolving.exe
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\bin\Debug\net8.0\LearningToSolving.deps.json
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\bin\Debug\net8.0\LearningToSolving.runtimeconfig.json
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\bin\Debug\net8.0\LearningToSolving.dll
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\bin\Debug\net8.0\LearningToSolving.pdb
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.AssemblyInfoInputs.cache
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.AssemblyInfo.cs
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.csproj.CoreCompileInputs.cache
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.sourcelink.json
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.dll
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\refint\LearningToSolving.dll
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.pdb
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\LearningToSolving.genruntimeconfig.cache
+C:\Users\monow\OneDrive\Desktop\Current Working\Online Courses\Cracking Coding Interview\Problem Solving\Cracking Coding Interview\Through C#\LearningToSolving\obj\Debug\net8.0\ref\LearningToSolving.dll
