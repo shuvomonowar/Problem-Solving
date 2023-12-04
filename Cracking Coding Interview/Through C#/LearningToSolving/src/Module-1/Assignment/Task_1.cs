@@ -1,4 +1,4 @@
-namespace LearningToSolving.Src.Module_1.Assignment;
+namespace LearningToSolving.Module_1.Assignment;
 
 public class Task_1 {
     
@@ -19,3 +19,7 @@ public class Task_1 {
         Console.WriteLine("The factorial result is " + result);
     }
 }
+
+
+// Time Complexity : O(n)
+// Space Complexity : O(1)
