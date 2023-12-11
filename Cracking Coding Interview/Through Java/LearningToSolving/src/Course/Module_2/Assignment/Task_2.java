@@ -3,6 +3,7 @@ package Course.Module_2.Assignment;
 import java.util.Scanner;
 
 public class Task_2 {
+    // Solution of the task 2
     public int solution(int[] prices) {
         int l = prices.length, tp = 0, mp = 0, j = 1;
         for (int i = 0; i < l-1; i++) {

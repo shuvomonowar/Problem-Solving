@@ -3,7 +3,7 @@ package Course.Module_2.Assignment;
 import java.util.Scanner;
 
 public class Task_1 {
-    //
+    // Solution of the task 1
     void solution() {
         Scanner sc = new Scanner(System.in);
 
