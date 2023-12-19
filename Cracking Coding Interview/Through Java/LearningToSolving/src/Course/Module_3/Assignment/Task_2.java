@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Task_2 {
     // Solution of the task 2
-    public void solution(String h, String n) {
-        for (int i = 0; i < h.length(); i++) {
-            
-        }
+    public int solution(String h, String n) {
+        int s = h.indexOf(n);
+
+        return s;
     }
 
     // Main method
@@ -19,10 +19,10 @@ public class Task_2 {
         String n = sc.nextLine();
 
         Task_2 obj1 = new Task_2();
-        obj1.solution(h, n);
+        System.out.println(obj1.solution(h, n));
     }
 }
 
 
-// Time Complexity : O()
-// Space Complexity : O()
+// Time Complexity : O(1)
+// Space Complexity : O(1)
