@@ -1,4 +1,4 @@
-package Platform.LeetCode;
+package Platform.LeetCode.Easy;
 
 public class Best_Time_to_Buy_and_Sell_Stock {
     public int maxProfit(int[] prices) {

@@ -1,4 +1,4 @@
-package Platform.LeetCode;
+package Platform.LeetCode.Easy;
 
 import java.util.Scanner;
 
