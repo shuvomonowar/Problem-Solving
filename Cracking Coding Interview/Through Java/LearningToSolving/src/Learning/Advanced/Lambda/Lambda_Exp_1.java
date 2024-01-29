@@ -12,7 +12,7 @@ class Lambda_Exp_1 {
         num.add(500);
 
         // Lambda expression
-        num.forEach((n) -> {System.out.println(n);});
+        num.forEach(System.out::println);
     }
 
     public static void main(String[] args) {

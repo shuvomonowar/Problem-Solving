@@ -20,8 +20,7 @@
       "outputPath": "C:\\Users\\monow\\OneDrive\\Desktop\\Current Working\\Online Courses\\Cracking Coding Interview\\Problem Solving\\Cracking Coding Interview\\Through C#\\LearningToSolving\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\monow\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\monow\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
